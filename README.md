@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/x0_S1643)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Arduino](https://img.shields.io/badge/platform-Arduino-orange)
 ![Language](https://img.shields.io/badge/language-C++-blue)
@@ -127,6 +126,9 @@ Students must follow proper documentation standards using **Doxygen-style commen
  * Implements PWM-based closed-loop control for MG995 servo motor.
  * Accepts angle input via Serial Monitor and validates range (0–180).
  */
+```
+
+---
 
 ## 🧠 Code Overview
 
@@ -199,7 +201,7 @@ void loop() {
 }
 
 ---
-
+```
 ---
 
 ## 🏆 Why This Repository Follows Professional Standards
